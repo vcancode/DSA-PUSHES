@@ -1,46 +1,95 @@
-class Solution {
-    public int longestSubarray(int[] nums, int k) {
-        int n = nums.length;
-        Map<Integer,List<Integer>> mp = new HashMap<>();
-        for(int x:nums){
-            int num=x;
-            List<Integer> li = new ArrayList<>();
-            for(int i=2;i*i<=num;i++){
-                if(num%i==0){
-                   li.add(i);
-                   while(num%i==0){
-                    num/=i;
-                   }
-                   
-                }
-            }
+import java.util.*;
 
-            if(num>1) li.add(num);
-            mp.put(x,li);
+class Solution {
+
+    public int longestSubarray(int[] nums, int k) {
+
+        int n = nums.length;
+
+        // Find maximum element
+        int max = 0;
+        for (int x : nums) {
+            max = Math.max(max, x);
         }
 
-        int l=0,r=0;
-        int ans=0;
-        Map<Integer,Integer> mp2 = new HashMap<>();
-        while(r<nums.length){
-            for(int i=0;i<mp.get(nums[r]).size();i++){
-                int num=mp.get(nums[r]).get(i);
-                mp2.put(num,mp2.getOrDefault(num,0)+1);
+        // Smallest Prime Factor
+        int[] spf = new int[max + 1];
+
+        for (int i = 0; i <= max; i++) {
+            spf[i] = i;
+        }
+
+        for (int i = 2; i * i <= max; i++) {
+
+            if (spf[i] == i) {
+
+                for (int j = i * i; j <= max; j += i) {
+
+                    if (spf[j] == j) {
+                        spf[j] = i;
+                    }
+                }
+            }
+        }
+
+        // cnt[p] = number of elements in current
+        // window having prime factor p
+        int[] cnt = new int[max + 1];
+
+        int distinct = 0;
+        int left = 0;
+        int ans = 0;
+
+        for (int right = 0; right < n; right++) {
+
+            int x = nums[right];
+
+            // Add nums[right]
+            while (x > 1) {
+
+                int p = spf[x];
+
+                if (cnt[p] == 0) {
+                    distinct++;
+                }
+
+                cnt[p]++;
+
+                // Remove all occurrences of p
+                while (x % p == 0) {
+                    x /= p;
+                }
             }
 
-            while(mp2.size()>k){
-                for(int i=0;i<mp.get(nums[l]).size();i++){
-                    int num=mp.get(nums[l]).get(i);
-                    mp2.put(num,mp2.getOrDefault(num,0)-1);
-                    if(mp2.get(num)==0) mp2.remove(num);
+            // Shrink window if there are more than k
+            // distinct prime factors
+            while (distinct > k) {
+
+                x = nums[left];
+
+                // Remove nums[left]
+                while (x > 1) {
+
+                    int p = spf[x];
+
+                    cnt[p]--;
+
+                    if (cnt[p] == 0) {
+                        distinct--;
+                    }
+
+                    // Remove all occurrences of p
+                    while (x % p == 0) {
+                        x /= p;
+                    }
                 }
-                l++;
+
+                left++;
             }
-            ans=Math.max(ans,r-l+1);
-            r++;
+
+            ans = Math.max(ans, right - left + 1);
         }
 
         return ans;
-        
     }
 }

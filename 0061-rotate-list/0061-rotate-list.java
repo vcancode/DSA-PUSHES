@@ -18,7 +18,7 @@ class Solution {
         }
         if(k%(++count)==0) return head;
 
-        temp.next=head;
+        temp.next=head; // a ring
         ListNode temp2=head;
         int rotate = count-(k%count);
         while(rotate>1){

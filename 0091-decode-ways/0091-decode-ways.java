@@ -13,7 +13,7 @@ class Solution {
         if (s.charAt(idx) == '0') {
             return 0;
         }
-        
+
         if(mem[idx]!=null) return mem[idx];
 
         //take one
@@ -22,7 +22,7 @@ class Solution {
         //take 2
         if(idx<n-1 && (
             s.charAt(idx)=='1' || (
-                s.charAt(idx)=='2' && s.charAt(idx)<'7'
+                s.charAt(idx)=='2' && s.charAt(idx+1)<='6'
             )
         ))
         {

@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/vcancode/DSA-PUSHES/tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/vcancode/DSA-PUSHES/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/vcancode/DSA-PUSHES/tree/master/0567-permutation-in-string) |
+| [0784-letter-case-permutation](https://github.com/vcancode/DSA-PUSHES/tree/master/0784-letter-case-permutation) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/vcancode/DSA-PUSHES/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/0090-subsets-ii) |
+| [0784-letter-case-permutation](https://github.com/vcancode/DSA-PUSHES/tree/master/0784-letter-case-permutation) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -84,4 +86,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/0090-subsets-ii) |
+| [0784-letter-case-permutation](https://github.com/vcancode/DSA-PUSHES/tree/master/0784-letter-case-permutation) |
 <!---LeetCode Topics End-->

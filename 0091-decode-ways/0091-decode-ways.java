@@ -5,28 +5,28 @@ class Solution {
     }
 
     private int helper(String s, int idx,Integer[] mem) {
-        int n = s.length();
-
-        if (idx == n) {
+        int n=s.length();
+        if(idx==s.length()){
             return 1;
         }
 
-        // A number cannot start with 0
         if (s.charAt(idx) == '0') {
             return 0;
         }
-
+        
         if(mem[idx]!=null) return mem[idx];
 
-        // Take one digit
-        int res = helper(s, idx + 1,mem);
+        //take one
+        int res=helper(s,idx+1,mem);
 
-        // Take two digits
-        if (idx < n - 1 &&
-            (s.charAt(idx) == '1' ||
-             (s.charAt(idx) == '2' && s.charAt(idx + 1) <= '6'))) {
-
-            res += helper(s, idx + 2,mem);
+        //take 2
+        if(idx<n-1 && (
+            s.charAt(idx)=='1' || (
+                s.charAt(idx)=='2' && s.charAt(idx)<'7'
+            )
+        ))
+        {
+            res+=helper(s,idx+2,mem);
         }
 
         return mem[idx]=res;

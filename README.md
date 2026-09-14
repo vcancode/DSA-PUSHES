@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/vcancode/DSA-PUSHES/tree/master/0070-climbing-stairs) |
+| [0836-rectangle-overlap](https://github.com/vcancode/DSA-PUSHES/tree/master/0836-rectangle-overlap) |
 ## Memoization
 |  |
 | ------- |
@@ -96,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/vcancode/DSA-PUSHES/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/vcancode/DSA-PUSHES/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->

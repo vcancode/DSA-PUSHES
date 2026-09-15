@@ -16,33 +16,25 @@ class Solution {
         boolean[] used,
         int length
     ) {
+        if(idx==arr.size()) return;
 
-        ans = Math.max(ans, length);
+        for(int i=idx;i<arr.size();i++){
 
-        if (idx == arr.size()) {
-            return;
-        }
+            String s=arr.get(i);
+            // can i take it 
+            if(!canTake(s,used)) continue;
 
-        for (int i = idx; i < arr.size(); i++) {
+            //Take
 
-            String s = arr.get(i);
+            add(s,used);
 
-            if (!canTake(s, used)) {
-                continue;
-            }
+            ans=Math.max(ans,length+s.length());
 
-            // TAKE
-            add(s, used);
+            backtrack(arr,i+1,used,length+s.length());
 
-            backtrack(
-                arr,
-                i + 1,
-                used,
-                length + s.length()
-            );
+            //undo
+            remove(s,used);
 
-            // UNDO
-            remove(s, used);
         }
     }
 

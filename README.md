@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/0090-subsets-ii) |
 | [0217-contains-duplicate](https://github.com/vcancode/DSA-PUSHES/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/vcancode/DSA-PUSHES/tree/master/0283-move-zeroes) |
+| [0473-matchsticks-to-square](https://github.com/vcancode/DSA-PUSHES/tree/master/0473-matchsticks-to-square) |
 | [0643-maximum-average-subarray-i](https://github.com/vcancode/DSA-PUSHES/tree/master/0643-maximum-average-subarray-i) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/vcancode/DSA-PUSHES/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1052-grumpy-bookstore-owner](https://github.com/vcancode/DSA-PUSHES/tree/master/1052-grumpy-bookstore-owner) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/vcancode/DSA-PUSHES/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/vcancode/DSA-PUSHES/tree/master/0091-decode-ways) |
+| [0473-matchsticks-to-square](https://github.com/vcancode/DSA-PUSHES/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/vcancode/DSA-PUSHES/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Backtracking
 |  |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/vcancode/DSA-PUSHES/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/0090-subsets-ii) |
+| [0473-matchsticks-to-square](https://github.com/vcancode/DSA-PUSHES/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/vcancode/DSA-PUSHES/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0784-letter-case-permutation](https://github.com/vcancode/DSA-PUSHES/tree/master/0784-letter-case-permutation) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/vcancode/DSA-PUSHES/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -94,12 +97,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/0090-subsets-ii) |
+| [0473-matchsticks-to-square](https://github.com/vcancode/DSA-PUSHES/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/vcancode/DSA-PUSHES/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0784-letter-case-permutation](https://github.com/vcancode/DSA-PUSHES/tree/master/0784-letter-case-permutation) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/vcancode/DSA-PUSHES/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 ## Bitmask
 |  |
 | ------- |
+| [0473-matchsticks-to-square](https://github.com/vcancode/DSA-PUSHES/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/vcancode/DSA-PUSHES/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Geometry
 |  |

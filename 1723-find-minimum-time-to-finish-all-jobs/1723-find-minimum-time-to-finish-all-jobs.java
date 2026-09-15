@@ -57,7 +57,7 @@ class Solution {
 
             // Empty workers are equivalent
             if (workers[i] == 0) {
-                break;
+                return false;
             }
         }
 

@@ -28,7 +28,7 @@ class Solution {
             }
         }
 
-        return low;
+        return high;
     }
 
     private boolean canAssign(int[] jobs, int index,

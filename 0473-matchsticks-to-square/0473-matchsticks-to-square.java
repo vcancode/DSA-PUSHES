@@ -12,7 +12,6 @@ class Solution {
 
             buckets[i]-=num;
 
-            if(buckets[i]==0) break;
         }
 
         return false;

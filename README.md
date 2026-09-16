@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/vcancode/DSA-PUSHES/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/vcancode/DSA-PUSHES/tree/master/0070-climbing-stairs) |
 | [0836-rectangle-overlap](https://github.com/vcancode/DSA-PUSHES/tree/master/0836-rectangle-overlap) |
 ## Memoization
@@ -118,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/vcancode/DSA-PUSHES/tree/master/0836-rectangle-overlap) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/vcancode/DSA-PUSHES/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->

@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/vcancode/DSA-PUSHES/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0217-contains-duplicate](https://github.com/vcancode/DSA-PUSHES/tree/master/0217-contains-duplicate) |
 | [0567-permutation-in-string](https://github.com/vcancode/DSA-PUSHES/tree/master/0567-permutation-in-string) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vcancode/DSA-PUSHES/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/vcancode/DSA-PUSHES/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0079-word-search](https://github.com/vcancode/DSA-PUSHES/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/vcancode/DSA-PUSHES/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/vcancode/DSA-PUSHES/tree/master/0125-valid-palindrome) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/vcancode/DSA-PUSHES/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0047-permutations-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/vcancode/DSA-PUSHES/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/0090-subsets-ii) |

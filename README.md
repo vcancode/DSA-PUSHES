@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/vcancode/DSA-PUSHES/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/0090-subsets-ii) |
+| [0140-word-break-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/0140-word-break-ii) |
 | [0217-contains-duplicate](https://github.com/vcancode/DSA-PUSHES/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/vcancode/DSA-PUSHES/tree/master/0283-move-zeroes) |
 | [0473-matchsticks-to-square](https://github.com/vcancode/DSA-PUSHES/tree/master/0473-matchsticks-to-square) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vcancode/DSA-PUSHES/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0140-word-break-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/0140-word-break-ii) |
 | [0217-contains-duplicate](https://github.com/vcancode/DSA-PUSHES/tree/master/0217-contains-duplicate) |
 | [0567-permutation-in-string](https://github.com/vcancode/DSA-PUSHES/tree/master/0567-permutation-in-string) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vcancode/DSA-PUSHES/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/vcancode/DSA-PUSHES/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/vcancode/DSA-PUSHES/tree/master/0125-valid-palindrome) |
 | [0132-palindrome-partitioning-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/0132-palindrome-partitioning-ii) |
+| [0140-word-break-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/0140-word-break-ii) |
 | [0282-expression-add-operators](https://github.com/vcancode/DSA-PUSHES/tree/master/0282-expression-add-operators) |
 | [0443-string-compression](https://github.com/vcancode/DSA-PUSHES/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/vcancode/DSA-PUSHES/tree/master/0567-permutation-in-string) |
@@ -66,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/vcancode/DSA-PUSHES/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/vcancode/DSA-PUSHES/tree/master/0091-decode-ways) |
 | [0132-palindrome-partitioning-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/0132-palindrome-partitioning-ii) |
+| [0140-word-break-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/0140-word-break-ii) |
 | [0473-matchsticks-to-square](https://github.com/vcancode/DSA-PUSHES/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/vcancode/DSA-PUSHES/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/vcancode/DSA-PUSHES/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
@@ -77,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/vcancode/DSA-PUSHES/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/vcancode/DSA-PUSHES/tree/master/0093-restore-ip-addresses) |
+| [0140-word-break-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/0140-word-break-ii) |
 | [0282-expression-add-operators](https://github.com/vcancode/DSA-PUSHES/tree/master/0282-expression-add-operators) |
 | [0473-matchsticks-to-square](https://github.com/vcancode/DSA-PUSHES/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/vcancode/DSA-PUSHES/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -102,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/vcancode/DSA-PUSHES/tree/master/0070-climbing-stairs) |
+| [0140-word-break-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/0140-word-break-ii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/vcancode/DSA-PUSHES/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Linked List
 |  |
@@ -130,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/vcancode/DSA-PUSHES/tree/master/0060-permutation-sequence) |
+## Trie
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->

@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vcancode/DSA-PUSHES/tree/master/0011-container-with-most-water) |
 | [0047-permutations-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/vcancode/DSA-PUSHES/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/0090-subsets-ii) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vcancode/DSA-PUSHES/tree/master/0011-container-with-most-water) |
 | [0061-rotate-list](https://github.com/vcancode/DSA-PUSHES/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/vcancode/DSA-PUSHES/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/vcancode/DSA-PUSHES/tree/master/0283-move-zeroes) |
@@ -144,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/0140-word-break-ii) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/vcancode/DSA-PUSHES/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->

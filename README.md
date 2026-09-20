@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/vcancode/DSA-PUSHES/tree/master/0018-4sum) |
 | [0061-rotate-list](https://github.com/vcancode/DSA-PUSHES/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/vcancode/DSA-PUSHES/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/vcancode/DSA-PUSHES/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/vcancode/DSA-PUSHES/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/vcancode/DSA-PUSHES/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/vcancode/DSA-PUSHES/tree/master/0567-permutation-in-string) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/vcancode/DSA-PUSHES/tree/master/0125-valid-palindrome) |
 | [0132-palindrome-partitioning-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/0140-word-break-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/vcancode/DSA-PUSHES/tree/master/0151-reverse-words-in-a-string) |
 | [0282-expression-add-operators](https://github.com/vcancode/DSA-PUSHES/tree/master/0282-expression-add-operators) |
 | [0443-string-compression](https://github.com/vcancode/DSA-PUSHES/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/vcancode/DSA-PUSHES/tree/master/0567-permutation-in-string) |

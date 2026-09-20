@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/vcancode/DSA-PUSHES/tree/master/0643-maximum-average-subarray-i) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/vcancode/DSA-PUSHES/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0881-boats-to-save-people](https://github.com/vcancode/DSA-PUSHES/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/vcancode/DSA-PUSHES/tree/master/0905-sort-array-by-parity) |
 | [1052-grumpy-bookstore-owner](https://github.com/vcancode/DSA-PUSHES/tree/master/1052-grumpy-bookstore-owner) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/vcancode/DSA-PUSHES/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/vcancode/DSA-PUSHES/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/0047-permutations-ii) |
 | [0217-contains-duplicate](https://github.com/vcancode/DSA-PUSHES/tree/master/0217-contains-duplicate) |
 | [0881-boats-to-save-people](https://github.com/vcancode/DSA-PUSHES/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/vcancode/DSA-PUSHES/tree/master/0905-sort-array-by-parity) |
 ## Two Pointers
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/vcancode/DSA-PUSHES/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/vcancode/DSA-PUSHES/tree/master/0567-permutation-in-string) |
 | [0881-boats-to-save-people](https://github.com/vcancode/DSA-PUSHES/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/vcancode/DSA-PUSHES/tree/master/0905-sort-array-by-parity) |
 ## String
 |  |
 | ------- |

@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vcancode/DSA-PUSHES/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0140-word-break-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/0140-word-break-ii) |
+| [0202-happy-number](https://github.com/vcancode/DSA-PUSHES/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/vcancode/DSA-PUSHES/tree/master/0217-contains-duplicate) |
 | [0567-permutation-in-string](https://github.com/vcancode/DSA-PUSHES/tree/master/0567-permutation-in-string) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vcancode/DSA-PUSHES/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/vcancode/DSA-PUSHES/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/vcancode/DSA-PUSHES/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/vcancode/DSA-PUSHES/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/vcancode/DSA-PUSHES/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/vcancode/DSA-PUSHES/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/vcancode/DSA-PUSHES/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/vcancode/DSA-PUSHES/tree/master/0567-permutation-in-string) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0060-permutation-sequence](https://github.com/vcancode/DSA-PUSHES/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/vcancode/DSA-PUSHES/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/vcancode/DSA-PUSHES/tree/master/0202-happy-number) |
 | [0282-expression-add-operators](https://github.com/vcancode/DSA-PUSHES/tree/master/0282-expression-add-operators) |
 | [0836-rectangle-overlap](https://github.com/vcancode/DSA-PUSHES/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/vcancode/DSA-PUSHES/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -163,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/vcancode/DSA-PUSHES/tree/master/0881-boats-to-save-people) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/vcancode/DSA-PUSHES/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->

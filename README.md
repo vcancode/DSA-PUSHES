@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/vcancode/DSA-PUSHES/tree/master/0567-permutation-in-string) |
 | [0881-boats-to-save-people](https://github.com/vcancode/DSA-PUSHES/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/vcancode/DSA-PUSHES/tree/master/0905-sort-array-by-parity) |
+| [2938-separate-black-and-white-balls](https://github.com/vcancode/DSA-PUSHES/tree/master/2938-separate-black-and-white-balls) |
 ## String
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/vcancode/DSA-PUSHES/tree/master/0567-permutation-in-string) |
 | [0784-letter-case-permutation](https://github.com/vcancode/DSA-PUSHES/tree/master/0784-letter-case-permutation) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/vcancode/DSA-PUSHES/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [2938-separate-black-and-white-balls](https://github.com/vcancode/DSA-PUSHES/tree/master/2938-separate-black-and-white-balls) |
 | [3498-reverse-degree-of-a-string](https://github.com/vcancode/DSA-PUSHES/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/vcancode/DSA-PUSHES/tree/master/0011-container-with-most-water) |
 | [0881-boats-to-save-people](https://github.com/vcancode/DSA-PUSHES/tree/master/0881-boats-to-save-people) |
+| [2938-separate-black-and-white-balls](https://github.com/vcancode/DSA-PUSHES/tree/master/2938-separate-black-and-white-balls) |
 ## Timsort
 |  |
 | ------- |

@@ -6,19 +6,19 @@ class Solution {
     public List<String> braceExpansionII(String expression) {
         n = expression.length();
         s = expression;
-        idx = 0;
-
-        Set<String> st = performUnion();
-        return new ArrayList<>(st);   // TreeSet is already sorted
+        Set<String> st= performUnion();   
+        return new ArrayList<>(st);
     }
 
     private Set<String> getUnit() {
         Set<String> result;
 
-        if (s.charAt(idx) == '{') {
+        if(s.charAt(idx)=='{'){
             idx++;
-            result = performUnion();
-        } else { // alphabet
+            result=performUnion();
+        }
+
+        else{
             result = new TreeSet<>();
             result.add(String.valueOf(s.charAt(idx)));
         }
@@ -29,19 +29,20 @@ class Solution {
 
     private Set<String> performConcat() {
         Set<String> result = new TreeSet<>();
-        result.add("");   // seed value: "" glued onto anything leaves it unchanged
+        result.add("");
 
-        while (idx < n && (s.charAt(idx) == '{' || Character.isLetter(s.charAt(idx)))) {
+        while(idx<n && (s.charAt(idx)=='{' || Character.isLetter(s.charAt(idx)))){
+
             Set<String> temp = getUnit();
 
-            Set<String> concatResult = new TreeSet<>();
-            for (String left : result) {
-                for (String right : temp) {
-                    concatResult.add(left + right);
+            Set<String> concatresult=new TreeSet<>();
+            for(String left: result){
+                for(String right: temp){
+                    concatresult.add(left+right);
                 }
             }
 
-            result = concatResult;
+            result=concatresult;
         }
 
         return result;
@@ -50,15 +51,15 @@ class Solution {
     private Set<String> performUnion() {
         Set<String> result = new TreeSet<>();
 
-        while (true) {
-            Set<String> temp = performConcat();
-            result.addAll(temp);
+        while(true){
+            Set<String> concatresult = performConcat();
+            result.addAll(concatresult);
 
-            if (idx < n && s.charAt(idx) == ',') {
-                idx++;
-            } else {
-                break;
-            }
+            if(idx<n && s.charAt(idx)==',') idx++;
+
+            else break;
+
+            
         }
 
         return result;

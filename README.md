@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/vcancode/DSA-PUSHES/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/vcancode/DSA-PUSHES/tree/master/0567-permutation-in-string) |
 | [0784-letter-case-permutation](https://github.com/vcancode/DSA-PUSHES/tree/master/0784-letter-case-permutation) |
+| [0856-score-of-parentheses](https://github.com/vcancode/DSA-PUSHES/tree/master/0856-score-of-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/1096-brace-expansion-ii) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/vcancode/DSA-PUSHES/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [2938-separate-black-and-white-balls](https://github.com/vcancode/DSA-PUSHES/tree/master/2938-separate-black-and-white-balls) |
@@ -198,9 +199,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0856-score-of-parentheses](https://github.com/vcancode/DSA-PUSHES/tree/master/0856-score-of-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/1096-brace-expansion-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/1096-brace-expansion-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/vcancode/DSA-PUSHES/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->

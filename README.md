@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vcancode/DSA-PUSHES/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0032-longest-valid-parentheses](https://github.com/vcancode/DSA-PUSHES/tree/master/0032-longest-valid-parentheses) |
 | [0079-word-search](https://github.com/vcancode/DSA-PUSHES/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/vcancode/DSA-PUSHES/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/vcancode/DSA-PUSHES/tree/master/0093-restore-ip-addresses) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/vcancode/DSA-PUSHES/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/vcancode/DSA-PUSHES/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/vcancode/DSA-PUSHES/tree/master/0091-decode-ways) |
 | [0132-palindrome-partitioning-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/0132-palindrome-partitioning-ii) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/vcancode/DSA-PUSHES/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/vcancode/DSA-PUSHES/tree/master/0856-score-of-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/1096-brace-expansion-ii) |
 ## Breadth-First Search
@@ -208,5 +211,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/vcancode/DSA-PUSHES/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/vcancode/DSA-PUSHES/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->

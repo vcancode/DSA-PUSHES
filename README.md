@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/vcancode/DSA-PUSHES/tree/master/0349-intersection-of-two-arrays) |
 | [0377-combination-sum-iv](https://github.com/vcancode/DSA-PUSHES/tree/master/0377-combination-sum-iv) |
 | [0473-matchsticks-to-square](https://github.com/vcancode/DSA-PUSHES/tree/master/0473-matchsticks-to-square) |
+| [0496-next-greater-element-i](https://github.com/vcancode/DSA-PUSHES/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/vcancode/DSA-PUSHES/tree/master/0643-maximum-average-subarray-i) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/vcancode/DSA-PUSHES/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0881-boats-to-save-people](https://github.com/vcancode/DSA-PUSHES/tree/master/0881-boats-to-save-people) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/vcancode/DSA-PUSHES/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/vcancode/DSA-PUSHES/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/vcancode/DSA-PUSHES/tree/master/0349-intersection-of-two-arrays) |
+| [0496-next-greater-element-i](https://github.com/vcancode/DSA-PUSHES/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/vcancode/DSA-PUSHES/tree/master/0567-permutation-in-string) |
 | [1096-brace-expansion-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/1096-brace-expansion-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vcancode/DSA-PUSHES/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/vcancode/DSA-PUSHES/tree/master/0032-longest-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/vcancode/DSA-PUSHES/tree/master/0496-next-greater-element-i) |
 | [0856-score-of-parentheses](https://github.com/vcancode/DSA-PUSHES/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vcancode/DSA-PUSHES/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1096-brace-expansion-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/1096-brace-expansion-ii) |
@@ -219,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/vcancode/DSA-PUSHES/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/vcancode/DSA-PUSHES/tree/master/0856-score-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vcancode/DSA-PUSHES/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/vcancode/DSA-PUSHES/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->

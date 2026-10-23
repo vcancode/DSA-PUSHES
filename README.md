@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/vcancode/DSA-PUSHES/tree/master/0377-combination-sum-iv) |
 | [0473-matchsticks-to-square](https://github.com/vcancode/DSA-PUSHES/tree/master/0473-matchsticks-to-square) |
 | [0496-next-greater-element-i](https://github.com/vcancode/DSA-PUSHES/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/vcancode/DSA-PUSHES/tree/master/0643-maximum-average-subarray-i) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/vcancode/DSA-PUSHES/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0739-daily-temperatures](https://github.com/vcancode/DSA-PUSHES/tree/master/0739-daily-temperatures) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/vcancode/DSA-PUSHES/tree/master/0032-longest-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/vcancode/DSA-PUSHES/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/vcancode/DSA-PUSHES/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/vcancode/DSA-PUSHES/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/vcancode/DSA-PUSHES/tree/master/0901-online-stock-span) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/vcancode/DSA-PUSHES/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/vcancode/DSA-PUSHES/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/vcancode/DSA-PUSHES/tree/master/0901-online-stock-span) |
 ## Design

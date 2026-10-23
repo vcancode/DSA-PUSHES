@@ -8,8 +8,6 @@ class Solution {
 
             if(!st.isEmpty()) ans[i]=st.peek()-i;
 
-            else ans[i]=0;
-
             st.push(i);
             
         }

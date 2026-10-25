@@ -10,15 +10,14 @@ class Solution {
             }
             else{
                 if(s.charAt(i-1)=='('){
-                    score = st.pop()+1;
+                    score+=st.pop()+1;
                 }
                 else{
-                    score =st.pop()+2*score;
+                    score=score*2 + st.pop();
                 }
-            } 
+            }
         }
-        return  score;
-    }
 
-        
+        return score;
+    }
 }

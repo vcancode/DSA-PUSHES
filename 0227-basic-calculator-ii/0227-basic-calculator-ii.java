@@ -1,43 +1,34 @@
-
-import java.util.Stack;
-
 class Solution {
     public int calculate(String s) {
-        Stack<Integer> st = new Stack<>();
-
+        int n = s.length();
+        int result = 0;
+        int last = 0;
         int num = 0;
-        char sign = '+';
+        char op = '+';
 
-        for (int i = 0; i < s.length(); i++) {
-            char c = s.charAt(i);
+        for (int i = 0; i <= n; i++) {
+            char c = i < n ? s.charAt(i) : '+';
 
-            if (Character.isDigit(c)) {
+            if (c >= '0' && c <= '9') {
                 num = num * 10 + (c - '0');
-            }
-
-            if ((!Character.isDigit(c) && c != ' ') ||
-                i == s.length() - 1) {
-
-                if (sign == '+') {
-                    st.push(num);
-                } else if (sign == '-') {
-                    st.push(-num);
-                } else if (sign == '*') {
-                    st.push(st.pop() * num);
-                } else if (sign == '/') {
-                    st.push(st.pop() / num);
+            } else if (c != ' ') {
+                if (op == '+') {
+                    result += last;
+                    last = num;
+                } else if (op == '-') {
+                    result += last;
+                    last = -num;
+                } else if (op == '*') {
+                    last *= num;
+                } else {
+                    last /= num;
                 }
 
-                sign = c;
+                op = c;
                 num = 0;
             }
         }
 
-        int result = 0;
-        while (!st.isEmpty()) {
-            result += st.pop();
-        }
-
-        return result;
+        return result + last;
     }
 }

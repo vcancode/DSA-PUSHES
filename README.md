@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/vcancode/DSA-PUSHES/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/0090-subsets-ii) |
 | [0140-word-break-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/0140-word-break-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/vcancode/DSA-PUSHES/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/vcancode/DSA-PUSHES/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/vcancode/DSA-PUSHES/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/vcancode/DSA-PUSHES/tree/master/0349-intersection-of-two-arrays) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0060-permutation-sequence](https://github.com/vcancode/DSA-PUSHES/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/vcancode/DSA-PUSHES/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/vcancode/DSA-PUSHES/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/vcancode/DSA-PUSHES/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/vcancode/DSA-PUSHES/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/0227-basic-calculator-ii) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/vcancode/DSA-PUSHES/tree/master/0032-longest-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/vcancode/DSA-PUSHES/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/vcancode/DSA-PUSHES/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/0227-basic-calculator-ii) |
 | [0496-next-greater-element-i](https://github.com/vcancode/DSA-PUSHES/tree/master/0496-next-greater-element-i) |

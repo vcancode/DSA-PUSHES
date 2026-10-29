@@ -5,8 +5,13 @@ class Solution {
         int open=0;
         for(int i=0;i<n;i++){
             char c=s.charAt(i);
-            if(c=='(' || locked.charAt(i)=='0') open++;
-            else open--;
+            if(c=='(') open++;
+            else{
+                if(locked.charAt(i)=='0'){
+                    open++;
+                }
+                else open--;
+            }
 
             if(open<0) return false;
         }
@@ -15,10 +20,13 @@ class Solution {
 
             for(int i=n-1;i>=0;i--){
                 char c=s.charAt(i);
-                if(c==')' || locked.charAt(i)=='0'){
+                if(c==')'){
                     open++;
                 }
-                else open--;
+                else{
+                    if(locked.charAt(i)=='0') open++;
+                    else open--;
+                }
                 if(open<0) return false;
             }
 

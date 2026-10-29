@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/vcancode/DSA-PUSHES/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vcancode/DSA-PUSHES/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vcancode/DSA-PUSHES/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/vcancode/DSA-PUSHES/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2938-separate-black-and-white-balls](https://github.com/vcancode/DSA-PUSHES/tree/master/2938-separate-black-and-white-balls) |
 | [3498-reverse-degree-of-a-string](https://github.com/vcancode/DSA-PUSHES/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/vcancode/DSA-PUSHES/tree/master/0011-container-with-most-water) |
 | [0881-boats-to-save-people](https://github.com/vcancode/DSA-PUSHES/tree/master/0881-boats-to-save-people) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vcancode/DSA-PUSHES/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/vcancode/DSA-PUSHES/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2938-separate-black-and-white-balls](https://github.com/vcancode/DSA-PUSHES/tree/master/2938-separate-black-and-white-balls) |
 ## Timsort
 |  |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vcancode/DSA-PUSHES/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vcancode/DSA-PUSHES/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vcancode/DSA-PUSHES/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/vcancode/DSA-PUSHES/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/vcancode/DSA-PUSHES/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/vcancode/DSA-PUSHES/tree/master/0856-score-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vcancode/DSA-PUSHES/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/vcancode/DSA-PUSHES/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 ## Monotonic Stack
 |  |
 | ------- |

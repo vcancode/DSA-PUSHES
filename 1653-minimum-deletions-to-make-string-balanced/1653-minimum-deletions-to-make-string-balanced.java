@@ -1,26 +1,16 @@
 class Solution {
     public int minimumDeletions(String s) {
-        Stack<Character> st = new Stack<>();
-        int ans=0;
+        int a=0,b=0,n=s.length();
+        for(char c: s.toCharArray()) if(c=='a') a++;
+
+        int ans=Integer.MAX_VALUE;
+
         for(char c:s.toCharArray()){
-            if(st.isEmpty()) {
-                st.push(c);
-                continue;
-            }
-            else{
-                if(c=='a' && st.peek()=='b'){
-                        st.pop();
-                        ans++;
-                    }
-
-                else st.push(c);
-                }
-                
-            }
-
-            return ans;
+            if(c=='a') a--;
+            ans=Math.min(ans,a+b);
+            if(c=='b') b++;
         }
 
-        
-    
+        return ans;
     }
+}

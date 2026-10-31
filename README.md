@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/vcancode/DSA-PUSHES/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/vcancode/DSA-PUSHES/tree/master/0905-sort-array-by-parity) |
 | [0907-sum-of-subarray-minimums](https://github.com/vcancode/DSA-PUSHES/tree/master/0907-sum-of-subarray-minimums) |
+| [0962-maximum-width-ramp](https://github.com/vcancode/DSA-PUSHES/tree/master/0962-maximum-width-ramp) |
 | [1052-grumpy-bookstore-owner](https://github.com/vcancode/DSA-PUSHES/tree/master/1052-grumpy-bookstore-owner) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/vcancode/DSA-PUSHES/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vcancode/DSA-PUSHES/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/vcancode/DSA-PUSHES/tree/master/0567-permutation-in-string) |
 | [0881-boats-to-save-people](https://github.com/vcancode/DSA-PUSHES/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/vcancode/DSA-PUSHES/tree/master/0905-sort-array-by-parity) |
+| [0962-maximum-width-ramp](https://github.com/vcancode/DSA-PUSHES/tree/master/0962-maximum-width-ramp) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vcancode/DSA-PUSHES/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2938-separate-black-and-white-balls](https://github.com/vcancode/DSA-PUSHES/tree/master/2938-separate-black-and-white-balls) |
 ## String
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/vcancode/DSA-PUSHES/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/vcancode/DSA-PUSHES/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vcancode/DSA-PUSHES/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0962-maximum-width-ramp](https://github.com/vcancode/DSA-PUSHES/tree/master/0962-maximum-width-ramp) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vcancode/DSA-PUSHES/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1096-brace-expansion-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/1096-brace-expansion-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vcancode/DSA-PUSHES/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/vcancode/DSA-PUSHES/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/vcancode/DSA-PUSHES/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/vcancode/DSA-PUSHES/tree/master/0907-sum-of-subarray-minimums) |
+| [0962-maximum-width-ramp](https://github.com/vcancode/DSA-PUSHES/tree/master/0962-maximum-width-ramp) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vcancode/DSA-PUSHES/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Design
 |  |

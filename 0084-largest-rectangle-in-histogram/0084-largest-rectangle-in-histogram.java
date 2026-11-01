@@ -14,13 +14,13 @@ class Solution {
 
             while (!st.isEmpty() && heights[st.peek()] >= currHeight) {
 
-                int index = st.pop();
+                int index = st.pop(); // isse pehle kon bada tha isse woh nikalo 
 
-                int height = heights[index];
+                int height = heights[index]; // woh bande ke liye calculate karenge
 
-                int pse = st.isEmpty() ? -1 : st.peek();
+                int pse = st.isEmpty() ? -1 : st.peek(); // uska previous st.peek()
 
-                int nse = i;
+                int nse = i; // abhi joh banda hai wahi uska nse hai 
 
                 int width = nse - pse - 1;
 

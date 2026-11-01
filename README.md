@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/vcancode/DSA-PUSHES/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/vcancode/DSA-PUSHES/tree/master/0349-intersection-of-two-arrays) |
 | [0377-combination-sum-iv](https://github.com/vcancode/DSA-PUSHES/tree/master/0377-combination-sum-iv) |
+| [0456-132-pattern](https://github.com/vcancode/DSA-PUSHES/tree/master/0456-132-pattern) |
 | [0473-matchsticks-to-square](https://github.com/vcancode/DSA-PUSHES/tree/master/0473-matchsticks-to-square) |
 | [0496-next-greater-element-i](https://github.com/vcancode/DSA-PUSHES/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/0503-next-greater-element-ii) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/vcancode/DSA-PUSHES/tree/master/0349-intersection-of-two-arrays) |
+| [0456-132-pattern](https://github.com/vcancode/DSA-PUSHES/tree/master/0456-132-pattern) |
 ## Simulation
 |  |
 | ------- |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/vcancode/DSA-PUSHES/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/vcancode/DSA-PUSHES/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/0227-basic-calculator-ii) |
+| [0456-132-pattern](https://github.com/vcancode/DSA-PUSHES/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/vcancode/DSA-PUSHES/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/vcancode/DSA-PUSHES/tree/master/0739-daily-temperatures) |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/vcancode/DSA-PUSHES/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/vcancode/DSA-PUSHES/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/vcancode/DSA-PUSHES/tree/master/0739-daily-temperatures) |
@@ -283,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/vcancode/DSA-PUSHES/tree/master/0901-online-stock-span) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/vcancode/DSA-PUSHES/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->

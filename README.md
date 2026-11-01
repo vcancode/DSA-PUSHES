@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/vcancode/DSA-PUSHES/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/vcancode/DSA-PUSHES/tree/master/0079-word-search) |
+| [0084-largest-rectangle-in-histogram](https://github.com/vcancode/DSA-PUSHES/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/0090-subsets-ii) |
 | [0140-word-break-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/0140-word-break-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vcancode/DSA-PUSHES/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/vcancode/DSA-PUSHES/tree/master/0032-longest-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/vcancode/DSA-PUSHES/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vcancode/DSA-PUSHES/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/vcancode/DSA-PUSHES/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/0227-basic-calculator-ii) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/vcancode/DSA-PUSHES/tree/master/0084-largest-rectangle-in-histogram) |
 | [0456-132-pattern](https://github.com/vcancode/DSA-PUSHES/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/vcancode/DSA-PUSHES/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/0503-next-greater-element-ii) |
@@ -291,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/vcancode/DSA-PUSHES/tree/master/0456-132-pattern) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/vcancode/DSA-PUSHES/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->

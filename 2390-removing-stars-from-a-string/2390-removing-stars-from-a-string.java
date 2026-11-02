@@ -1,6 +1,3 @@
-
-import java.util.*;
-
 class Solution {
     public String removeStars(String s) {
         Stack<Character> st = new Stack<>();

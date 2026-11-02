@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/vcancode/DSA-PUSHES/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/0227-basic-calculator-ii) |
 | [0282-expression-add-operators](https://github.com/vcancode/DSA-PUSHES/tree/master/0282-expression-add-operators) |
+| [0394-decode-string](https://github.com/vcancode/DSA-PUSHES/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/vcancode/DSA-PUSHES/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/vcancode/DSA-PUSHES/tree/master/0567-permutation-in-string) |
 | [0784-letter-case-permutation](https://github.com/vcancode/DSA-PUSHES/tree/master/0784-letter-case-permutation) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0060-permutation-sequence](https://github.com/vcancode/DSA-PUSHES/tree/master/0060-permutation-sequence) |
 | [0224-basic-calculator](https://github.com/vcancode/DSA-PUSHES/tree/master/0224-basic-calculator) |
+| [0394-decode-string](https://github.com/vcancode/DSA-PUSHES/tree/master/0394-decode-string) |
 ## Trie
 |  |
 | ------- |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/vcancode/DSA-PUSHES/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/vcancode/DSA-PUSHES/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/0227-basic-calculator-ii) |
+| [0394-decode-string](https://github.com/vcancode/DSA-PUSHES/tree/master/0394-decode-string) |
 | [0456-132-pattern](https://github.com/vcancode/DSA-PUSHES/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/vcancode/DSA-PUSHES/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/0503-next-greater-element-ii) |

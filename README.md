@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vcancode/DSA-PUSHES/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vcancode/DSA-PUSHES/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/vcancode/DSA-PUSHES/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/vcancode/DSA-PUSHES/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vcancode/DSA-PUSHES/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/vcancode/DSA-PUSHES/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2390-removing-stars-from-a-string](https://github.com/vcancode/DSA-PUSHES/tree/master/2390-removing-stars-from-a-string) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/vcancode/DSA-PUSHES/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/vcancode/DSA-PUSHES/tree/master/0946-validate-stack-sequences) |
 | [1441-build-an-array-with-stack-operations](https://github.com/vcancode/DSA-PUSHES/tree/master/1441-build-an-array-with-stack-operations) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/vcancode/DSA-PUSHES/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/vcancode/DSA-PUSHES/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/vcancode/DSA-PUSHES/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vcancode/DSA-PUSHES/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vcancode/DSA-PUSHES/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/vcancode/DSA-PUSHES/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/vcancode/DSA-PUSHES/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vcancode/DSA-PUSHES/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/vcancode/DSA-PUSHES/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2390-removing-stars-from-a-string](https://github.com/vcancode/DSA-PUSHES/tree/master/2390-removing-stars-from-a-string) |

@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vcancode/DSA-PUSHES/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/vcancode/DSA-PUSHES/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vcancode/DSA-PUSHES/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/vcancode/DSA-PUSHES/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Sliding Window
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/vcancode/DSA-PUSHES/tree/master/0643-maximum-average-subarray-i) |
 | [1052-grumpy-bookstore-owner](https://github.com/vcancode/DSA-PUSHES/tree/master/1052-grumpy-bookstore-owner) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
+| [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/vcancode/DSA-PUSHES/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/vcancode/DSA-PUSHES/tree/master/0567-permutation-in-string) |
 | [1096-brace-expansion-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/1096-brace-expansion-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vcancode/DSA-PUSHES/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/vcancode/DSA-PUSHES/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Sorting
 |  |
 | ------- |

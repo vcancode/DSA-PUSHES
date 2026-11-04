@@ -11,14 +11,11 @@ class Solution {
 
             int num = nums[j];
 
-            // Add only if element is appearing first time
             if (!map.containsKey(num)) {
                 sum += num;
             }
 
             map.put(num, map.getOrDefault(num, 0) + 1);
-
-            // Shrink window
             while (sum >= k) {
 
                 ans = Math.min(ans, j - i + 1);

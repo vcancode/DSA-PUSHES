@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/0140-word-break-ii) |
 | [0202-happy-number](https://github.com/vcancode/DSA-PUSHES/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/vcancode/DSA-PUSHES/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/vcancode/DSA-PUSHES/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/vcancode/DSA-PUSHES/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/vcancode/DSA-PUSHES/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/vcancode/DSA-PUSHES/tree/master/0567-permutation-in-string) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/vcancode/DSA-PUSHES/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/0047-permutations-ii) |
 | [0217-contains-duplicate](https://github.com/vcancode/DSA-PUSHES/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/vcancode/DSA-PUSHES/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/vcancode/DSA-PUSHES/tree/master/0349-intersection-of-two-arrays) |
 | [0881-boats-to-save-people](https://github.com/vcancode/DSA-PUSHES/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/vcancode/DSA-PUSHES/tree/master/0905-sort-array-by-parity) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/vcancode/DSA-PUSHES/tree/master/0151-reverse-words-in-a-string) |
 | [0224-basic-calculator](https://github.com/vcancode/DSA-PUSHES/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/0227-basic-calculator-ii) |
+| [0242-valid-anagram](https://github.com/vcancode/DSA-PUSHES/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/vcancode/DSA-PUSHES/tree/master/0282-expression-add-operators) |
 | [0394-decode-string](https://github.com/vcancode/DSA-PUSHES/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/vcancode/DSA-PUSHES/tree/master/0402-remove-k-digits) |

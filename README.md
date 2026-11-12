@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/vcancode/DSA-PUSHES/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/vcancode/DSA-PUSHES/tree/master/0209-minimum-size-subarray-sum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/vcancode/DSA-PUSHES/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/vcancode/DSA-PUSHES/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/vcancode/DSA-PUSHES/tree/master/0643-maximum-average-subarray-i) |
 | [1052-grumpy-bookstore-owner](https://github.com/vcancode/DSA-PUSHES/tree/master/1052-grumpy-bookstore-owner) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/vcancode/DSA-PUSHES/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vcancode/DSA-PUSHES/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/vcancode/DSA-PUSHES/tree/master/0349-intersection-of-two-arrays) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/vcancode/DSA-PUSHES/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/vcancode/DSA-PUSHES/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/vcancode/DSA-PUSHES/tree/master/0567-permutation-in-string) |
 | [1096-brace-expansion-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/1096-brace-expansion-ii) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/vcancode/DSA-PUSHES/tree/master/0282-expression-add-operators) |
 | [0394-decode-string](https://github.com/vcancode/DSA-PUSHES/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/vcancode/DSA-PUSHES/tree/master/0402-remove-k-digits) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/vcancode/DSA-PUSHES/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/vcancode/DSA-PUSHES/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/vcancode/DSA-PUSHES/tree/master/0567-permutation-in-string) |
 | [0784-letter-case-permutation](https://github.com/vcancode/DSA-PUSHES/tree/master/0784-letter-case-permutation) |

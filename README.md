@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/vcancode/DSA-PUSHES/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vcancode/DSA-PUSHES/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3449-maximize-the-minimum-game-score](https://github.com/vcancode/DSA-PUSHES/tree/master/3449-maximize-the-minimum-game-score) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vcancode/DSA-PUSHES/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/vcancode/DSA-PUSHES/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vcancode/DSA-PUSHES/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vcancode/DSA-PUSHES/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/vcancode/DSA-PUSHES/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2938-separate-black-and-white-balls](https://github.com/vcancode/DSA-PUSHES/tree/master/2938-separate-black-and-white-balls) |
+| [3449-maximize-the-minimum-game-score](https://github.com/vcancode/DSA-PUSHES/tree/master/3449-maximize-the-minimum-game-score) |
 ## Timsort
 |  |
 | ------- |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/vcancode/DSA-PUSHES/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/vcancode/DSA-PUSHES/tree/master/0349-intersection-of-two-arrays) |
 | [0456-132-pattern](https://github.com/vcancode/DSA-PUSHES/tree/master/0456-132-pattern) |
+| [3449-maximize-the-minimum-game-score](https://github.com/vcancode/DSA-PUSHES/tree/master/3449-maximize-the-minimum-game-score) |
 ## Simulation
 |  |
 | ------- |

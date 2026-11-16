@@ -1,20 +1,31 @@
 class Solution {
-    public void largestValuesDFS(TreeNode root, int level, List<Integer> maxLst) {
-        if(root == null) return;
+    public List<Integer> largestValues(TreeNode root) {
+        List<Integer> res = new ArrayList<>();
 
-        if(level == maxLst.size()) {
-            maxLst.add(root.val);
+        if(root == null) return res;
+
+        Queue<TreeNode> queue = new LinkedList<>();
+        queue.offer(root);
+
+        while(!queue.isEmpty()) {
+            int size = queue.size();
+            int maximum = Integer.MIN_VALUE;
+
+            for(int i = 0; i < size; i++) {
+                TreeNode node = queue.poll();
+
+                maximum = Math.max(maximum, node.val);
+
+                if(node.left != null)
+                    queue.offer(node.left);
+
+                if(node.right != null)
+                    queue.offer(node.right);
+            }
+
+            res.add(maximum);
         }
 
-        maxLst.set(level, Math.max(root.val, maxLst.get(level)));
-
-        largestValuesDFS(root.left, level + 1, maxLst);
-        largestValuesDFS(root.right, level + 1, maxLst);
-    }
-
-    public List<Integer> largestValues(TreeNode root) {
-        List<Integer> maxLst = new ArrayList<>();
-        largestValuesDFS(root, 0, maxLst);
-        return maxLst;
+        return res;
     }
 }

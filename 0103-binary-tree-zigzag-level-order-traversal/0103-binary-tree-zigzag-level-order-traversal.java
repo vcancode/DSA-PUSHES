@@ -9,9 +9,9 @@ class Solution {
 
         while (!q.isEmpty()) {
             List<Integer> current = new ArrayList<>();
-            int level = q.size();
+            int levelsize = q.size();
 
-            for (int i = 0; i < level; i++) {
+            for (int i = 0; i < levelsize; i++) {
                 if (!reverse) {
                     TreeNode curr = q.pollFirst();
                     current.add(curr.val);

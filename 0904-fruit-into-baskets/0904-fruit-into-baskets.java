@@ -1,0 +1,21 @@
+class Solution {
+    public int totalFruit(int[] fruits) {
+        int i=0,j=0,maxlen=0;
+          HashMap<Integer,Integer> mp = new HashMap<>();
+        while(j<fruits.length){
+            mp.put(fruits[j], mp.getOrDefault(fruits[j], 0) + 1);
+            if(mp.size()>2){
+                if(mp.get(fruits[i])==1) mp.remove(fruits[i]);
+                else{
+                    mp.put(fruits[i],mp.get(fruits[i])-1);
+                } 
+                i++;
+            }
+
+            if(mp.size()<=2) maxlen=Math.max(maxlen,j-i+1);
+            j++;
+        }
+
+        return maxlen;
+    }
+}

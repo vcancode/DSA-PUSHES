@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/vcancode/DSA-PUSHES/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vcancode/DSA-PUSHES/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/vcancode/DSA-PUSHES/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3449-maximize-the-minimum-game-score](https://github.com/vcancode/DSA-PUSHES/tree/master/3449-maximize-the-minimum-game-score) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vcancode/DSA-PUSHES/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/vcancode/DSA-PUSHES/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/vcancode/DSA-PUSHES/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/vcancode/DSA-PUSHES/tree/master/0085-maximal-rectangle) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/vcancode/DSA-PUSHES/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Math
 |  |
 | ------- |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/vcancode/DSA-PUSHES/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/vcancode/DSA-PUSHES/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/vcancode/DSA-PUSHES/tree/master/2390-removing-stars-from-a-string) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/vcancode/DSA-PUSHES/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3498-reverse-degree-of-a-string](https://github.com/vcancode/DSA-PUSHES/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |

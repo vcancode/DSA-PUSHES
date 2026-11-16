@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/vcancode/DSA-PUSHES/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vcancode/DSA-PUSHES/tree/master/0739-daily-temperatures) |
 | [0881-boats-to-save-people](https://github.com/vcancode/DSA-PUSHES/tree/master/0881-boats-to-save-people) |
+| [0904-fruit-into-baskets](https://github.com/vcancode/DSA-PUSHES/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/vcancode/DSA-PUSHES/tree/master/0905-sort-array-by-parity) |
 | [0907-sum-of-subarray-minimums](https://github.com/vcancode/DSA-PUSHES/tree/master/0907-sum-of-subarray-minimums) |
 | [0946-validate-stack-sequences](https://github.com/vcancode/DSA-PUSHES/tree/master/0946-validate-stack-sequences) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/vcancode/DSA-PUSHES/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/vcancode/DSA-PUSHES/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/vcancode/DSA-PUSHES/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/vcancode/DSA-PUSHES/tree/master/0904-fruit-into-baskets) |
 | [1052-grumpy-bookstore-owner](https://github.com/vcancode/DSA-PUSHES/tree/master/1052-grumpy-bookstore-owner) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vcancode/DSA-PUSHES/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/vcancode/DSA-PUSHES/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/vcancode/DSA-PUSHES/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/vcancode/DSA-PUSHES/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/vcancode/DSA-PUSHES/tree/master/0904-fruit-into-baskets) |
 | [1096-brace-expansion-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/1096-brace-expansion-ii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vcancode/DSA-PUSHES/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vcancode/DSA-PUSHES/tree/master/3718-smallest-missing-multiple-of-k) |

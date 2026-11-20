@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/vcancode/DSA-PUSHES/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1441-build-an-array-with-stack-operations](https://github.com/vcancode/DSA-PUSHES/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vcancode/DSA-PUSHES/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vcancode/DSA-PUSHES/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/vcancode/DSA-PUSHES/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/vcancode/DSA-PUSHES/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/vcancode/DSA-PUSHES/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/vcancode/DSA-PUSHES/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/vcancode/DSA-PUSHES/tree/master/1052-grumpy-bookstore-owner) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vcancode/DSA-PUSHES/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vcancode/DSA-PUSHES/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/vcancode/DSA-PUSHES/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/vcancode/DSA-PUSHES/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/vcancode/DSA-PUSHES/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0907-sum-of-subarray-minimums](https://github.com/vcancode/DSA-PUSHES/tree/master/0907-sum-of-subarray-minimums) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vcancode/DSA-PUSHES/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/vcancode/DSA-PUSHES/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/vcancode/DSA-PUSHES/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 ## Backtracking

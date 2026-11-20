@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/vcancode/DSA-PUSHES/tree/master/0907-sum-of-subarray-minimums) |
 | [0946-validate-stack-sequences](https://github.com/vcancode/DSA-PUSHES/tree/master/0946-validate-stack-sequences) |
 | [0962-maximum-width-ramp](https://github.com/vcancode/DSA-PUSHES/tree/master/0962-maximum-width-ramp) |
+| [1004-max-consecutive-ones-iii](https://github.com/vcancode/DSA-PUSHES/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/vcancode/DSA-PUSHES/tree/master/1052-grumpy-bookstore-owner) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/vcancode/DSA-PUSHES/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1441-build-an-array-with-stack-operations](https://github.com/vcancode/DSA-PUSHES/tree/master/1441-build-an-array-with-stack-operations) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/vcancode/DSA-PUSHES/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/vcancode/DSA-PUSHES/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/vcancode/DSA-PUSHES/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/vcancode/DSA-PUSHES/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/vcancode/DSA-PUSHES/tree/master/1052-grumpy-bookstore-owner) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vcancode/DSA-PUSHES/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/vcancode/DSA-PUSHES/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/vcancode/DSA-PUSHES/tree/master/0349-intersection-of-two-arrays) |
 | [0456-132-pattern](https://github.com/vcancode/DSA-PUSHES/tree/master/0456-132-pattern) |
+| [1004-max-consecutive-ones-iii](https://github.com/vcancode/DSA-PUSHES/tree/master/1004-max-consecutive-ones-iii) |
 | [3449-maximize-the-minimum-game-score](https://github.com/vcancode/DSA-PUSHES/tree/master/3449-maximize-the-minimum-game-score) |
 ## Simulation
 |  |
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vcancode/DSA-PUSHES/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/vcancode/DSA-PUSHES/tree/master/1004-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

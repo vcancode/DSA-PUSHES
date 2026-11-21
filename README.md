@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/vcancode/DSA-PUSHES/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vcancode/DSA-PUSHES/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2875-minimum-size-subarray-in-infinite-array](https://github.com/vcancode/DSA-PUSHES/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/vcancode/DSA-PUSHES/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3449-maximize-the-minimum-game-score](https://github.com/vcancode/DSA-PUSHES/tree/master/3449-maximize-the-minimum-game-score) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vcancode/DSA-PUSHES/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vcancode/DSA-PUSHES/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vcancode/DSA-PUSHES/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2875-minimum-size-subarray-in-infinite-array](https://github.com/vcancode/DSA-PUSHES/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/vcancode/DSA-PUSHES/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Hash Table
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/1096-brace-expansion-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vcancode/DSA-PUSHES/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vcancode/DSA-PUSHES/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2875-minimum-size-subarray-in-infinite-array](https://github.com/vcancode/DSA-PUSHES/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vcancode/DSA-PUSHES/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/vcancode/DSA-PUSHES/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Sorting
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/vcancode/DSA-PUSHES/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/vcancode/DSA-PUSHES/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vcancode/DSA-PUSHES/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2875-minimum-size-subarray-in-infinite-array](https://github.com/vcancode/DSA-PUSHES/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

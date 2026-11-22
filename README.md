@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/vcancode/DSA-PUSHES/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/vcancode/DSA-PUSHES/tree/master/0905-sort-array-by-parity) |
 | [0907-sum-of-subarray-minimums](https://github.com/vcancode/DSA-PUSHES/tree/master/0907-sum-of-subarray-minimums) |
+| [0930-binary-subarrays-with-sum](https://github.com/vcancode/DSA-PUSHES/tree/master/0930-binary-subarrays-with-sum) |
 | [0946-validate-stack-sequences](https://github.com/vcancode/DSA-PUSHES/tree/master/0946-validate-stack-sequences) |
 | [0962-maximum-width-ramp](https://github.com/vcancode/DSA-PUSHES/tree/master/0962-maximum-width-ramp) |
 | [1004-max-consecutive-ones-iii](https://github.com/vcancode/DSA-PUSHES/tree/master/1004-max-consecutive-ones-iii) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/vcancode/DSA-PUSHES/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/vcancode/DSA-PUSHES/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/vcancode/DSA-PUSHES/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/vcancode/DSA-PUSHES/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/vcancode/DSA-PUSHES/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/vcancode/DSA-PUSHES/tree/master/1052-grumpy-bookstore-owner) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/vcancode/DSA-PUSHES/tree/master/1234-replace-the-substring-for-balanced-string) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/vcancode/DSA-PUSHES/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/vcancode/DSA-PUSHES/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/vcancode/DSA-PUSHES/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/vcancode/DSA-PUSHES/tree/master/0930-binary-subarrays-with-sum) |
 | [1096-brace-expansion-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/1096-brace-expansion-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vcancode/DSA-PUSHES/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vcancode/DSA-PUSHES/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -402,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vcancode/DSA-PUSHES/tree/master/0209-minimum-size-subarray-sum) |
+| [0930-binary-subarrays-with-sum](https://github.com/vcancode/DSA-PUSHES/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/vcancode/DSA-PUSHES/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vcancode/DSA-PUSHES/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/vcancode/DSA-PUSHES/tree/master/2875-minimum-size-subarray-in-infinite-array) |

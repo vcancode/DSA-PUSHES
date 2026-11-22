@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vcancode/DSA-PUSHES/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/vcancode/DSA-PUSHES/tree/master/2875-minimum-size-subarray-in-infinite-array) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/vcancode/DSA-PUSHES/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/vcancode/DSA-PUSHES/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3449-maximize-the-minimum-game-score](https://github.com/vcancode/DSA-PUSHES/tree/master/3449-maximize-the-minimum-game-score) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vcancode/DSA-PUSHES/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vcancode/DSA-PUSHES/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/vcancode/DSA-PUSHES/tree/master/2875-minimum-size-subarray-in-infinite-array) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/vcancode/DSA-PUSHES/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/vcancode/DSA-PUSHES/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Hash Table
 |  |

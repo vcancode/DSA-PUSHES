@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vcancode/DSA-PUSHES/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/vcancode/DSA-PUSHES/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/vcancode/DSA-PUSHES/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/vcancode/DSA-PUSHES/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Hash Table
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vcancode/DSA-PUSHES/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vcancode/DSA-PUSHES/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/vcancode/DSA-PUSHES/tree/master/2875-minimum-size-subarray-in-infinite-array) |
+| [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vcancode/DSA-PUSHES/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/vcancode/DSA-PUSHES/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Sorting
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/vcancode/DSA-PUSHES/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/vcancode/DSA-PUSHES/tree/master/2390-removing-stars-from-a-string) |
 | [2938-separate-black-and-white-balls](https://github.com/vcancode/DSA-PUSHES/tree/master/2938-separate-black-and-white-balls) |
+| [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/vcancode/DSA-PUSHES/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/vcancode/DSA-PUSHES/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
